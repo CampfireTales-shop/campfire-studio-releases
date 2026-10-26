@@ -1,7 +1,7 @@
 {
-  "version": "2.5.3",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.5.3/CampfireStudio_Setup.exe",
-  "sha256": "097399079f73acefe72fbf075daba22e3e4c77c7286a6acd0f51209995dc1dae",
-  "notes": "No more black command window flashing when the camera is toggled or a source starts.",
+  "version": "2.5.4",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.5.4/CampfireStudio_Setup.exe",
+  "sha256": "485f6050b3853a91b2752ffda2364cc64e57710a68aeee1e9169ca2a466ef84e",
+  "notes": "Reactions you make yourself: when a gift, follow or share comes in, show a source, play a video or a sound for as long as you set. The Reactions tab lists every reaction, imported or your own, with a Test button, an on/off switch and a Key box to fire one from a Stream Deck key. Triggers: a gift by name, any gift, a gift worth N coins or more, a follow, a share, a like goal, a chat command, or a key only. Your own reactions stay when you import from TikFinity again.",
   "published": "2026-10-26"
 }
