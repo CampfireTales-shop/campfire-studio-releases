@@ -1,0 +1,7 @@
+{
+  "version": "2.5.2",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.5.2/CampfireStudio_Setup.exe",
+  "sha256": "cf88add74d72c331faa9ae3fd7b872d610a4a659e304c4b289f855a94b42c2ad",
+  "notes": "Closed beta build (2026-10-26). Studio now tells you when a newer installer is out: a banner under the menu bar says \"Campfire Studio X.Y.Z is out\" with Download (opens the download page in your browser) and Later. It checks once, about a minute and a half after launch, never while you are live, and never downloads or installs anything by itself. The installer closes a running Studio before installing over it, and keeps your settings, scenes and stats. The beta installer is not code-signed yet: Windows SmartScreen will warn on first run (\"More info\" \u25b8 \"Run anyway\").",
+  "published": "2026-10-26"
+}
