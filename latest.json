@@ -1,7 +1,7 @@
 {
-  "version": "2.6.0",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.6.0/CampfireStudio_Setup.exe",
-  "sha256": "0a0cdf73efa60716a933b122a2305e43eab57da957c5e3c20103e2ffd189df37",
-  "notes": "Setup moved out of the side panel into Tools > Alerts & Actions. The side panel is for live: sound, the gift section volumes, what's coming in. Gift sounds are set from the Gift sounds catalog, on each gift's card.",
-  "published": "2026-10-26"
+  "version": "2.6.1",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.6.1/CampfireStudio_Setup.exe",
+  "sha256": "19230ce863c7ed0757c61abb7c0b6faa43bafd6c10ba3238632d992c4312d0b5",
+  "notes": "A webcam set to Fill & crop is sharp on the 9:16 canvas. The camera now crops the part that shows at its full resolution and scales only that to the canvas, instead of shrinking the whole picture to 1080p and stretching a narrow slice of it. Pick the camera's 4K mode to get the most out of it: the Mode list marks it \"full detail in Fill\", and a newly added camera starts in its largest smooth mode. Moving or resizing the camera re-crops it about half a second after you let go.",
+  "published": "2026-10-27"
 }
