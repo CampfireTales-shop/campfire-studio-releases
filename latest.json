@@ -1,7 +1,7 @@
 {
-  "version": "2.6.1",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.6.1/CampfireStudio_Setup.exe",
-  "sha256": "19230ce863c7ed0757c61abb7c0b6faa43bafd6c10ba3238632d992c4312d0b5",
-  "notes": "A webcam set to Fill & crop is sharp on the 9:16 canvas. The camera now crops the part that shows at its full resolution and scales only that to the canvas, instead of shrinking the whole picture to 1080p and stretching a narrow slice of it. Pick the camera's 4K mode to get the most out of it: the Mode list marks it \"full detail in Fill\", and a newly added camera starts in its largest smooth mode. Moving or resizing the camera re-crops it about half a second after you let go.",
+  "version": "2.6.2",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.6.2/CampfireStudio_Setup.exe",
+  "sha256": "13973f02d3da48a4c8c3e8674fca67fb93b7502061475133eae295948cad7bfe",
+  "notes": "Each chat message is read aloud once. TikTok sends the recent chat again every time Studio reconnects to the LIVE, and Studio was reading those copies too, so a message could be spoken two to five times. Copies are now ignored, and read-aloud, gift and follow speech share one voice queue, so they take turns instead of talking over each other.",
   "published": "2026-10-27"
 }
