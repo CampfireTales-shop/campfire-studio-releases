@@ -1,7 +1,7 @@
 {
-  "version": "2.6.2",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.6.2/CampfireStudio_Setup.exe",
-  "sha256": "13973f02d3da48a4c8c3e8674fca67fb93b7502061475133eae295948cad7bfe",
-  "notes": "Each chat message is read aloud once. TikTok sends the recent chat again every time Studio reconnects to the LIVE, and Studio was reading those copies too, so a message could be spoken two to five times. Copies are now ignored, and read-aloud, gift and follow speech share one voice queue, so they take turns instead of talking over each other.",
+  "version": "2.6.3",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.6.3/CampfireStudio_Setup.exe",
+  "sha256": "a6869cc9a6372fff438d03a5c176a17cef38b8e8c4e957580a07cc2e36cefb93",
+  "notes": "Text-to-speech has its own strip in the Audio section, next to your mics and Master: a meter that moves while Studio speaks, a volume slider, and a mute button. The slider is the same setting as the TTS slider at the top of the Sound tab, and mute is the same as the TTS button in the toolbar, so they always agree.",
   "published": "2026-10-27"
 }
