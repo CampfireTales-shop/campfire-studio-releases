@@ -1,7 +1,7 @@
 {
-  "version": "2.6.3",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.6.3/CampfireStudio_Setup.exe",
-  "sha256": "a6869cc9a6372fff438d03a5c176a17cef38b8e8c4e957580a07cc2e36cefb93",
-  "notes": "Text-to-speech has its own strip in the Audio section, next to your mics and Master: a meter that moves while Studio speaks, a volume slider, and a mute button. The slider is the same setting as the TTS slider at the top of the Sound tab, and mute is the same as the TTS button in the toolbar, so they always agree.",
-  "published": "2026-10-27"
+  "version": "2.7.0",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.7.0/CampfireStudio_Setup.exe",
+  "sha256": "9542f08a294ec06d364a2b4a5b81e4d9bd12a3b7eb5beb097df8b2affbfbcd38",
+  "notes": "Folders for your scenes, and your TikFinity setup comes over with one sign-in, so your scenes, alerts and actions live in one app.",
+  "published": "2026-11-01"
 }
