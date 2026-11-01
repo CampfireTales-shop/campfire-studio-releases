@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.7.0/CampfireStudio_Setup.exe",
-  "sha256": "9542f08a294ec06d364a2b4a5b81e4d9bd12a3b7eb5beb097df8b2affbfbcd38",
-  "notes": "Folders for your scenes, and your TikFinity setup comes over with one sign-in, so your scenes, alerts and actions live in one app.",
+  "version": "2.7.1",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.7.1/CampfireStudio_Setup.exe",
+  "sha256": "615abd41d993efbbefd25c8db4bfd260c41c3ddc4d9ff77e5fa67b910c0162ab",
+  "notes": "The gift list has no \"Stickers\" row any more: Heart Me and the other effect gifts sit in the row for their price, so no row can quietly silence a whole pile of paid gifts. If you had set a sound on the old Stickers row, set it again on those gifts' cards in the Gift sounds catalog.",
   "published": "2026-11-01"
 }
