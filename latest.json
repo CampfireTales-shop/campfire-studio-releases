@@ -1,7 +1,7 @@
 {
-  "version": "2.10.0",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.10.0/CampfireStudio_Setup.exe",
-  "sha256": "b5b560d2ed53e316c4ed07df9748bce930a2da0111495d334c42f3de90a5f462",
-  "notes": "Studio stays light next to a game, simpler stream settings, a tall virtual camera, and multi-select on the canvas.",
-  "published": "2026-11-12"
+  "version": "2.10.1",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.10.1/CampfireStudio_Setup.exe",
+  "sha256": "adc624d544b47dbf7f03e3f389aa8f71a2987bb45e80358e03a070db23731d68",
+  "notes": "Smoother picture while you're gaming. Reactions that show a source no longer stutter.",
+  "published": "2026-11-13"
 }
