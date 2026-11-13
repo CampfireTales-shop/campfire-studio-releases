@@ -1,7 +1,7 @@
 {
-  "version": "2.9.0",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.9.0/CampfireStudio_Setup.exe",
-  "sha256": "f6772243e17b8c3aa6f68da145c1fc241c2bbe686f3785f6f5a6e97986f22f33",
-  "notes": "Two pictures at once, an OBS import that matches OBS, and undo on the canvas.",
-  "published": "2026-11-10"
+  "version": "2.10.0",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.10.0/CampfireStudio_Setup.exe",
+  "sha256": "b5b560d2ed53e316c4ed07df9748bce930a2da0111495d334c42f3de90a5f462",
+  "notes": "Studio stays light next to a game, simpler stream settings, a tall virtual camera, and multi-select on the canvas.",
+  "published": "2026-11-12"
 }
