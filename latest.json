@@ -1,7 +1,7 @@
 {
-  "version": "2.10.2",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.10.2/CampfireStudio_Setup.exe",
-  "sha256": "e683d42270f9725cabe44609908dfdb5712f85aac5db6263abafbb500982d67b",
-  "notes": "Less lag and a smoother picture during busy moments.",
-  "published": "2026-11-13"
+  "version": "2.10.3",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.10.3/CampfireStudio_Setup.exe",
+  "sha256": "0ebba5477e45962737bf643aab42dba9745db08381d762ae8b5781409c8ad896",
+  "notes": "Your camera stays in time with you while you're gaming.",
+  "published": "2026-11-14"
 }
