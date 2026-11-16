@@ -1,7 +1,7 @@
 {
-  "version": "2.10.3",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.10.3/CampfireStudio_Setup.exe",
-  "sha256": "0ebba5477e45962737bf643aab42dba9745db08381d762ae8b5781409c8ad896",
-  "notes": "A small fix to keep your picture running smoothly while you're gaming.",
-  "published": "2026-11-14"
+  "version": "2.11.0",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.11.0/CampfireStudio_Setup.exe",
+  "sha256": "c732d120565fac6d253b4a9820eb5bd195d0204b84abe0a06c7ebb515c34f7a9",
+  "notes": "Your game window comes back on its own, add a sound from any sound pick, and find a viewer by name in Reactions.",
+  "published": "2026-11-16"
 }
