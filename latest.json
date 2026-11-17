@@ -1,7 +1,7 @@
 {
-  "version": "2.11.0",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.11.0/CampfireStudio_Setup.exe",
-  "sha256": "c732d120565fac6d253b4a9820eb5bd195d0204b84abe0a06c7ebb515c34f7a9",
-  "notes": "Your game window comes back on its own, add a sound from any sound pick, and find a viewer by name in Reactions.",
-  "published": "2026-11-16"
+  "version": "2.11.1",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.11.1/CampfireStudio_Setup.exe",
+  "sha256": "03a076eeed6bd75b5a9ebdc7dc8fd94b5e6b1578dbb7f80522e7c2a58bab99bd",
+  "notes": "A faster first launch, clearer camera messages, and a new icon.",
+  "published": "2026-11-17"
 }
