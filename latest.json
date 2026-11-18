@@ -1,7 +1,7 @@
 {
-  "version": "2.11.1",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.11.1/CampfireStudio_Setup.exe",
-  "sha256": "03a076eeed6bd75b5a9ebdc7dc8fd94b5e6b1578dbb7f80522e7c2a58bab99bd",
-  "notes": "A faster first launch, clearer camera messages, and a new icon.",
+  "version": "2.11.2",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.11.2/CampfireStudio_Setup.exe",
+  "sha256": "1d67e5bd5cbb91279702e0db677df3947c6469fa32526d000fd1335724a0fc34",
+  "notes": "Works with more cameras. Studio now picks the best picture your camera can give, so cameras that top out at 720p work too.",
   "published": "2026-11-17"
 }
