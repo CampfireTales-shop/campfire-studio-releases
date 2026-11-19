@@ -1,7 +1,7 @@
 {
-  "version": "2.11.2",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.11.2/CampfireStudio_Setup.exe",
-  "sha256": "1d67e5bd5cbb91279702e0db677df3947c6469fa32526d000fd1335724a0fc34",
-  "notes": "Works with more cameras. Studio now picks the best picture your camera can give, so cameras that top out at 720p work too.",
-  "published": "2026-11-17"
+  "version": "2.11.3",
+  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.11.3/CampfireStudio_Setup.exe",
+  "sha256": "c72af6a8789eff92d69f2f788b82fa6a11252ccbf15494cb3ccb3cbb16c67798",
+  "notes": "Smoother trigger clips. Keyed trigger clips now play smoothly the very first time they go off, not just on repeats. Studio gets them ready in the background after your scene opens.",
+  "published": "2026-11-19"
 }
