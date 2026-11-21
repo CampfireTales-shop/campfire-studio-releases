@@ -1,7 +1,6 @@
 {
-  "version": "2.11.3",
-  "url": "https://github.com/CampfireTales-shop/campfire-studio-releases/releases/download/v2.11.3/CampfireStudio_Setup.exe",
-  "sha256": "c72af6a8789eff92d69f2f788b82fa6a11252ccbf15494cb3ccb3cbb16c67798",
-  "notes": "Smoother trigger clips. Keyed trigger clips now play smoothly the very first time they go off, not just on repeats. Studio gets them ready in the background after your scene opens.",
-  "published": "2026-11-19"
+  "version": "2.12.0",
+  "sha256": "a9b3fc80716580eeb7be1189916a37e580d95ae8f5eac8f249e7ae6ce35a50fd",
+  "notes": "Smoother and lighter. Your scene runs smoother, and Studio leaves more of your PC free for your game and your stream.",
+  "published": "2026-11-20"
 }
